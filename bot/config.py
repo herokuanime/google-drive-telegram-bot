@@ -1,5 +1,5 @@
 class config:
-    BOT_TOKEN = "https://github.com/viperadnan-git/google-drive-telegram-bot/compare/main...herokuanime:patch-1"
+    BOT_TOKEN = "5220918235:AAFSKKmIIX79DlPX03MmPxJ4htxZ2GEA2-41"
     APP_ID = "12309587"
     API_HASH = "4948707247d1e186439b5aa71e967c8d"
     DATABASE_URL = "postgres://toolwwnbwbihia:d7e8b588f5b3c71f0d69e71e795cbc9f26f8977ff76f6c0ed30ca4e570b22608@ec2-44-195-169-163.compute-1.amazonaws.com:5432/d7tqc34brfb9cp"
