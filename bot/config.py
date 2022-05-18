@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "https://github.com/viperadnan-git/google-drive-telegram-bot/compare/main...herokuanime:patch-1"
+    APP_ID = "12309587"
+    API_HASH = "4948707247d1e186439b5aa71e967c8d"
+    DATABASE_URL = "postgres://toolwwnbwbihia:d7e8b588f5b3c71f0d69e71e795cbc9f26f8977ff76f6c0ed30ca4e570b22608@ec2-44-195-169-163.compute-1.amazonaws.com:5432/d7tqc34brfb9cp"
+    SUDO_USERS = "1768050370 5118110868" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/beybladechattamil"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "http://202264815644.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "X4Z3ca8xfWDb1Voo-F9a7ZxJ"
 
 
 class BotCommands:
